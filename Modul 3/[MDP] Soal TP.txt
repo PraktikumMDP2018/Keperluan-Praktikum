@@ -1,0 +1,5 @@
+1. Jelaskan apa itu Application Program Interface (API) 
+2. Sebut dan jelaskan 3 contoh aplikasi API dalam kehidupan sehari hari (khususnya pada perangkat bergerak)
+3. Sebut dan Jelaskan komponen MVP
+4. Jelaskan apa yang kalian pelajari pada modul android #1
+5. Analisis perbedaan antara modul android #1 dengan modul android #2
