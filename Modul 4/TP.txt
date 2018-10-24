@@ -1,0 +1,11 @@
+1.	Menurut kalian PWA itu apa ?
+2.	Jelaskan tentang Web App Manifest !
+3.	Vue js adalah ??
+4.	Apa fungsi dari Service Worker
+5.	Apa kegunaan Axios pada praktikum ini ?
+6.	Apa perbedaan Computed dan Method pada Vue JS
+
+jangan lupa buat laporan sementara ya :)
+
+kalian boleh tidak menggunakan Visual Studio Code
+
