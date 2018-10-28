@@ -1,0 +1,12 @@
+			TUGAS PENDAHULUAN
+			     MODUL 5
+			      PWA#2
+____________________________________________________________
+Nama	: 
+NIM	:
+
+1. Jelaskan apa yang dimaksud dengan PWA
+2. Bagaimana cara kerja service worker
+3. Apa saja keunggulan PWA
+4. Berikan contoh website yang sudah menggunakan PWA
+5. Sebutkan langkah - langkah untuk menambahkan asset!
