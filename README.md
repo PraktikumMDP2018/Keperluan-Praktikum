@@ -1,5 +1,5 @@
 ## Keperluan Praktikum Mobile Device Programming 2018
-> Program Studi : S1 - Teknik Komputer <br/>
+> Program Studi : **S1 - Teknik Komputer** <br/>
 > [Universitas Diponegoro](https://www.undip.ac.id/language/id/ "undip")
 
 ### Berisikan 6 modul, masing - masing :
