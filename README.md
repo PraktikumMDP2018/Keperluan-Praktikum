@@ -2,7 +2,7 @@
 > Program Studi : **S1 - Teknik Komputer** <br/>
 > [Universitas Diponegoro](https://www.undip.ac.id/language/id/ "undip")
 
-### Berisikan 6 modul, masing - masing :
+### Berisikan 6 modul, yaitu :
 > 1. Xamarin
 > 2. Android - SQLite
 > 3. Android - API
@@ -11,7 +11,7 @@
 > 6. iOS
 
 ### Repo ini berisi :
-> 1. Kelompok praktikum fix
+> 1. Kelompok praktikum
 > 2. Modul praktikum dari modul 1 - modul 6
 > 3. SOP praktikum
 > 4. Nilai praktikum
